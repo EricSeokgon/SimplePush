@@ -1,0 +1,44 @@
+{
+  "project_info": {
+    "project_number": "986549504884",
+    "firebase_url": "https://simplepush-2a00b.firebaseio.com",
+    "project_id": "simplepush-2a00b",
+    "storage_bucket": "simplepush-2a00b.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:986549504884:android:d02f842a1a914a5b",
+        "android_client_info": {
+          "package_name": "com.tistory.hadeslee.simplepush"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "986549504884-tqatiq15saam180rfsmtqbi46tahoklp.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.tistory.hadeslee.simplepush",
+            "certificate_hash": "999d62cacae689c5a92c7e00db33f7d7ad7b9f53"
+          }
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB9kFUev5LaW3BUL1YhctyBDNQgxRr1o5w"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "986549504884-hcvjisv61vdqpl4ffsfa6l5i8h2pd884.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
